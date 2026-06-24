@@ -1,0 +1,25 @@
+{
+  "name": "inteligencia-artificial-genia",
+  "version": "1.0.0",
+  "description": "Este repositório foi criado para centralizar e organizar todos os materiais, exemplos práticos e atividades desenvolvidas ao longo da disciplina de Inteligência Artificial GenIA.",
+  "main": "aiService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianoCoelho/Inteligencia-Artificial-GenIA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/julianoCoelho/Inteligencia-Artificial-GenIA/issues"
+  },
+  "homepage": "https://github.com/julianoCoelho/Inteligencia-Artificial-GenIA#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.44.0"
+  }
+}
